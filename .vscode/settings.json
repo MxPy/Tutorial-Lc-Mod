@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "LCTtutorialMon.sln",
+    "cmake.configureOnOpen": false
+}
